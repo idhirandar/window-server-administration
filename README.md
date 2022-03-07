@@ -1,13 +1,9 @@
-# window-server-administration
+# Window Server Administration
 some good doc. for window server and client device
-.
-├── batch-files
-│   ├── d-link_switchPing.bat
-│   ├── window-update-AUTO.bat
-│   └── window-update-DISABLE.bat
-├── emergency-utility
-│   └── putty-custom_conf.reg
-├── LICENSE
-└── README.md
 
-2 directories, 6 files
+### Author:
+Dhirandar
+
+###Date
+07-03-2022
+	
